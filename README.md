@@ -1,4 +1,4 @@
-# JAI SHREE KRISHNA 🙏
+# Hello!!
 
 <br>
 <p align="center">
@@ -34,13 +34,11 @@ different projects along with the people around me.
       src="https://github.com/LuckYYadav15/LuckYYadav15/blob/main/gifs/c%2B%2B%20gif.gif" height="100" width="100"></a>
   <a href="https://www.w3schools.com/css/"><img
       src="https://github.com/LuckYYadav15/LuckYYadav15/blob/main/gifs/css_gif.gif" height="100" width="100"></a>
+    <br>
   <a href="https://github.com/"><img src="https://github.com/LuckYYadav15/LuckYYadav15/blob/main/gifs/git_main_gif.gif"
       height="100" width="100"></a>
   <a href="https://www.w3schools.com/html/"><img
       src="https://github.com/LuckYYadav15/LuckYYadav15/blob/main/gifs/html%20gif.gif" width="100"></a>
-    <br>
-  <a href="https://in.mathworks.com/products/matlab.html"><img
-      src="https://github.com/LuckYYadav15/LuckYYadav15/blob/main/gifs/matlab_gif.gif" height="100" width="100"></a>
   <a href="https://www.python.org/"><img
       src="https://github.com/LuckYYadav15/LuckYYadav15/blob/main/gifs/python%20gif.gif" width="100"></a>
   <a href="https://code.visualstudio.com/"><img
@@ -51,7 +49,7 @@ different projects along with the people around me.
 <br />
 <p align="left" display="flex">
   <a href="https://github.com/pruthvirajkamble/github-readme-stats"><img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuckYYadav15&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=pruthvirajkamble&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
   </a>
 </p>
 <p align="right">Top languages is matric of public repos and doesn't reflect experience</p>
