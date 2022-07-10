@@ -7,9 +7,11 @@
 </p>
 
 <h1>I'm <a href="https://github.com/pruthvirajkamble">Pruthviraj Kamble</a></h1>
-I'm a proud citizen of India, pursuing B.Tech in CSE from <a href="https://iiitdwd.ac.in/">IIIT Dharwad</a>. I really
-enjoy learning languages and developing some non-existing outcomes to solve real-life problems. I’m excited to work on
-different projects along with the people around me.
+jango is chutiya...
+pruthvi ke bacche nhi honge or voh ek mutthal hai..
+sare din porn dekhta hai or hilata rehta hai
+uski bv roti rahegi..
+or voh dosto sai maded mangega
 
 - 🔭 I’m currently working on Web Development.
 - 🌱 I’m currently learning Web Development.
